@@ -13,9 +13,10 @@ It measures the time interval between sending & receiving the pulse & then by a 
 
 ![pin-diagram](Introduction-to-HC-SR04.jpg "ultrasonic pinout")
 
+
 # Circuit Diagram
 
-
+![diagram](circuit-diagram.PNG "circuit-diagram")
 
 # Code for the Ultrasonic sensor
 
