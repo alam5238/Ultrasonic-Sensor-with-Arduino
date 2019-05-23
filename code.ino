@@ -1,6 +1,6 @@
-int trigPin = 9;
-int echoPin = 10;
-int led = 7;
+int trigPin = 8;
+int echoPin = 9;
+int led = 5;
 
 
 void setup() {
